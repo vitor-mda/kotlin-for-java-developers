@@ -12,5 +12,5 @@ Code written while taking the Udemy course [Kotlin for Java Developers](https://
 7. ☑️ Lambda Expressions, Collections and Generics ([challenge #5](src/main/kotlin/challenge5))
 8. ☑️ File I/O
 9. ☑️ Java Interoperability ([challenge #6](src/main/kotlin/challenge6))
-10. 🔳 Course Wrap Up
-11. 🔳 Extra Information - Source code, and other stuff
+10. ☑️ Course Wrap Up
+11. ☑️ Extra Information - Source code, and other stuff
