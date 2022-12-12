@@ -11,6 +11,6 @@ Code written while taking the Udemy course [Kotlin for Java Developers](https://
 6. ☑️ Loops, and the If, When, and Try/Catch Expressions ([challenge #4](src/main/kotlin/challenge4))
 7. ☑️ Lambda Expressions, Collections and Generics ([challenge #5](src/main/kotlin/challenge5))
 8. ☑️ File I/O
-9. 🔳 Java Interoperability
+9. ☑️ Java Interoperability ([challenge #6](src/main/kotlin/challenge6))
 10. 🔳 Course Wrap Up
 11. 🔳 Extra Information - Source code, and other stuff
